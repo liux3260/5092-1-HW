@@ -1,0 +1,30 @@
+c:\users\liu\documents\visual studio 2015\Projects\5092-1 HW\5092-1 HW\bin\Debug\5092-1 HW.exe.config
+c:\users\liu\documents\visual studio 2015\Projects\5092-1 HW\5092-1 HW\bin\Debug\5092-1 HW.exe
+c:\users\liu\documents\visual studio 2015\Projects\5092-1 HW\5092-1 HW\bin\Debug\5092-1 HW.pdb
+c:\users\liu\documents\visual studio 2015\Projects\5092-1 HW\5092-1 HW\obj\Debug\5092-1 HW.csprojResolveAssemblyReference.cache
+c:\users\liu\documents\visual studio 2015\Projects\5092-1 HW\5092-1 HW\obj\Debug\_5092_1_HW.Form1.resources
+c:\users\liu\documents\visual studio 2015\Projects\5092-1 HW\5092-1 HW\obj\Debug\_5092_1_HW.Properties.Resources.resources
+c:\users\liu\documents\visual studio 2015\Projects\5092-1 HW\5092-1 HW\obj\Debug\5092-1 HW.csproj.GenerateResource.Cache
+c:\users\liu\documents\visual studio 2015\Projects\5092-1 HW\5092-1 HW\obj\Debug\5092-1 HW.exe
+c:\users\liu\documents\visual studio 2015\Projects\5092-1 HW\5092-1 HW\obj\Debug\5092-1 HW.pdb
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\5092-1 HW\5092-1 HW\bin\Debug\Infer.Compiler.dll
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\5092-1 HW\5092-1 HW\bin\Debug\Infer.Runtime.dll
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\5092-1 HW\5092-1 HW\bin\Debug\Infer.Compiler.pdb
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\5092-1 HW\5092-1 HW\bin\Debug\Infer.Compiler.xml
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\5092-1 HW\5092-1 HW\bin\Debug\Infer.Runtime.pdb
+C:\Users\Liu\Documents\Visual Studio 2015\Projects\5092-1 HW\5092-1 HW\bin\Debug\Infer.Runtime.xml
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\bin\Debug\5092-1 HW.exe.config
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\obj\Debug\5092-1 HW.exe
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\obj\Debug\5092-1 HW.pdb
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\bin\Debug\5092-1 HW.exe
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\bin\Debug\5092-1 HW.pdb
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\bin\Debug\Infer.Compiler.dll
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\bin\Debug\Infer.Runtime.dll
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\bin\Debug\Infer.Compiler.pdb
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\bin\Debug\Infer.Compiler.xml
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\bin\Debug\Infer.Runtime.pdb
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\bin\Debug\Infer.Runtime.xml
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\obj\Debug\5092-1 HW.csprojResolveAssemblyReference.cache
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\obj\Debug\_5092_1_HW.Form1.resources
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\obj\Debug\_5092_1_HW.Properties.Resources.resources
+C:\Users\zw\Desktop\5092-1 HW\5092-1 HW\obj\Debug\5092-1 HW.csproj.GenerateResource.Cache
